@@ -40,7 +40,7 @@ public class Main {
         devManel.setNome("Manel");
         devCamila.inscreverBootcamp(bootcamp);
         System.out.println("Conteudos Inscritos Manel" + devManel.getConteudoInscritos());
-
+        System.out.println(bootcamp);
 
 
 
